@@ -1,5 +1,6 @@
 # How to build the project: android_version
 
+! preview (https://github.com/MetaStar20/Revtone-ReactNative-app/blob/master/preview.png)
 First of all install node_modules using
 
 ```sh
@@ -13,7 +14,6 @@ and then
 ```sh
 npx jetify
 ```
-./preview.png
 
 finally
 ```sh
