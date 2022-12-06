@@ -1,6 +1,6 @@
 # How to build the project: android_version
 
-! (https://github.com/MetaStar20/Revtone-ReactNative-app/blob/master/preview.png?raw=true "Preview")First of all install node_modules using
+!(https://github.com/MetaStar20/Revtone-ReactNative-app/blob/master/preview.png?raw=true "Preview")First of all install node_modules using
 
 ```sh
 npm install 
