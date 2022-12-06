@@ -13,7 +13,7 @@ and then
 ```sh
 npx jetify
 ```
-
+./preview.png
 
 finally
 ```sh
